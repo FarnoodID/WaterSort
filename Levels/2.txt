@@ -1,0 +1,3 @@
+{{magenta} {red} {magenta} {red}}
+{{red} {magenta} {red} {magenta}}
+{{} {} {} {}}

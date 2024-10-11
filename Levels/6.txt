@@ -1,0 +1,7 @@
+{{magenta}{yellow}{yellow}{blue}}
+{{white}{green}{green}{blue}}
+{{white}{white}{blue}{magenta}}
+{{yellow}{magenta}{magenta}{green}}
+{{blue}{green}{white}{yellow}}
+{{}{}{}{}}
+{{}{}{}{}}

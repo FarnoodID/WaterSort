@@ -1,0 +1,9 @@
+{{magenta}{magenta}{cyan}{cyan}}
+{{green}{red}{red}{magenta}}
+{{red}{yellow}{magenta}{green}}
+{{blue}{red}{grey}{grey}}
+{{grey}{blue}{blue}{yellow}}
+{{yellow}{yellow}{cyan}{blue}}
+{{green}{cyan}{green}{grey}}
+{{}{}{}{}}
+{{}{}{}{}}

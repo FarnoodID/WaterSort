@@ -1,0 +1,11 @@
+{{purple}{red}{grey}{grey}}
+{{orange}{red}{red}{pink}}
+{{orange}{cyan}{blue}{brown}}
+{{green}{purple}{green}{blue}}
+{{brown}{purple}{brown}{grey}}
+{{cyan}{blue}{orange}{red}}
+{{cyan}{cyan}{green}{green}}
+{{pink}{orange}{pink}{brown}}
+{{pink}{purple}{blue}{grey}}
+{{}{}{}{}}
+{{}{}{}{}}
